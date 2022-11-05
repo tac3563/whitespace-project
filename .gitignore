@@ -1,0 +1,15 @@
+/*
+
+!.gitignore
+!readme.html
+node_modules
+
+!/wp-content/
+/wp-content/*
+
+
+!/wp-content/themes/
+/wp-content/themes/*
+
+!/wp-content/plugins/
+/wp-content/plugins/*
